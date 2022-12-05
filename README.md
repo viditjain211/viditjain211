@@ -18,9 +18,7 @@
   <img alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="digitalocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
   <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Astro" src="https://img.shields.io/badge/style=for-the-badge&logo=Astro&logoColor=white" />
-
-  <img alt="astro" src="https://img.shields.io/badge/astro?style=for-the-badge&logo=astro&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/astro-%23violet.svg?style=for-the-badge&logo=astro&logoColor=white" />
   <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
 <!--
